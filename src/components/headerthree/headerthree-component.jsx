@@ -18,7 +18,7 @@ const HeaderThree = (props) => {
                   border: "#28a745 1px solid",
                   borderRadius: "5px",
                   height: "31px",
-                  fontSize: "10px",
+                  fontSize: "12px",
                   color: "#262626",
                   top: "-2px",
                 }}
