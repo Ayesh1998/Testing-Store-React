@@ -1,0 +1,24 @@
+@media only screen and (max-width: 600px) {
+  .singlecatItemHead {
+    font-size: 13px !important;
+  }
+  .singlecatItempricePre {
+    font-size: 11px !important;
+  }
+
+  .singlecatItempriceNow {
+    font-size: 11px !important;
+  }
+}
+
+.singlecatItemHead {
+  font-size: 17px;
+}
+
+.singlecatItempricePre {
+  font-size: 15px;
+}
+
+.singlecatItempriceNow {
+  font-size: 15px;
+}

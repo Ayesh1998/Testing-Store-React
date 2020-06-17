@@ -1,0 +1,24 @@
+@media only screen and (max-width: 600px) {
+  .videoBox {
+    height: 50vh;
+  }
+
+  body {
+    font-size: 10px !important;
+  }
+}
+@media only screen and (min-width: 600px) {
+  .videoBox {
+    height: 80vh;
+  }
+}
+
+@media only screen and (min-width: 768px) {
+  .videoBox {
+    height: 90vh;
+  }
+}
+
+.videoBoxHead {
+  height: "92vh";
+}

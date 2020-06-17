@@ -1,0 +1,33 @@
+.headerThreehead .navbar-expand .navbar-nav .nav-link {
+  padding-right: 1.5rem;
+  padding-left: 0.5rem;
+}
+
+.headerThreehead {
+  font-weight: 600;
+  margin-top: 0.4%;
+}
+
+.navdropclass a {
+  padding: 4px;
+}
+
+.thirdHeaderListItems {
+  fontsize: "13px";
+}
+.headerThreetop {
+  margin-left: 9%;
+}
+
+@media only screen and (max-width: 600px) {
+  .thirdHeaderListItems {
+    fontsize: "8px" !important;
+  }
+  .headerThreetop {
+    margin-left: 0% !important;
+    padding-right: 0.5rem !important;
+  }
+  .headerThreehead .navbar-expand .navbar-nav .nav-link {
+    padding-right: 0.5rem !important;
+  }
+}

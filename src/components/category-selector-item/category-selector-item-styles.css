@@ -1,0 +1,24 @@
+.CategorySelectorItem {
+  margin: 1% auto;
+  border: grey 0.5px solid;
+  padding: 10px;
+  border-radius: 13px;
+}
+#active {
+  border: #28a745 3px solid;
+  background-color: #f2f3f2;
+}
+
+.categorySelectItemName {
+  padding-top: 15px;
+  font-weight: 600;
+  font-size: 0.9rem;
+}
+
+@media only screen and (max-width: 600px) {
+  .categorySelectItemName {
+    padding-top: 15px;
+    font-weight: 600;
+    font-size: 0.5rem;
+  }
+}

@@ -1,0 +1,25 @@
+.searchinput:hover {
+  border-color: #28a745;
+
+  box-shadow: 0 0 5px grey;
+}
+.searchinput {
+  border-color: grey;
+  border-width: 0.5px;
+  /* border: "solid 0.5px grey"; */
+}
+
+.searchBarTop {
+  width: 100%;
+  margin: 0px auto;
+  text-align: center;
+}
+
+@media only screen and (max-width: 600px) {
+  .searchBarTop {
+    width: 100%;
+    margin: 0px auto;
+    text-align: center;
+    margin-top: 74px !important;
+  }
+}
